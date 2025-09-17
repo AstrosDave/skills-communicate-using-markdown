@@ -2,4 +2,5 @@
 ## Header 2
 ### Header 3
 
-Added varied headers to index.md file
+![Image of Sameba Cathedral in Tbilisi, Georgia](https://wander-lush.org/wp-content/uploads/2021/10/Emily-Lush-churches-in-Tbilisi-Georgia-Sameba-Cathedral.jpg)
+
